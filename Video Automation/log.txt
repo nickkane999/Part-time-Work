@@ -1,0 +1,25 @@
+Program start: 2018-03-08 16:07:36.653462
+
+Will now convert following files in VLC to mp4: rand1.mtsrand2.mtsrand3.mts
+
+Program has loaded
+Video has been queued to convert: rand1.mts
+Program start: 2018-03-08 16:10:58.382987
+
+Will now convert following files in VLC to mp4: rand1.mtsrand2.mtsrand3.mts
+
+Program has loaded
+Video has been queued to convert: rand1.mts
+Video has finished being converted: rand1.mts
+Video has been queued to convert: rand2.mts
+Video has finished being converted: rand2.mts
+Video has been queued to convert: rand3.mts
+Video has finished being converted: rand3.mts
+Will now append mp4 files in Avidemux: rand1.mp4rand2.mp4rand3.mp4
+
+Program has loaded
+Program start: 2018-04-28 04:33:07.524785
+
+Will now convert following files in VLC to mp4: rand1.mts
+
+Program has loaded

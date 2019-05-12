@@ -1,0 +1,12 @@
+Log in was successful
+Loading the following file: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Found CMS wepage: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Grabbing html content from CMS wepage: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Log in was successful
+Loading the following file: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Found CMS wepage: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Grabbing html content from CMS wepage: /academics/entrepreneurship/about/faculty-staff/recent-research/index
+Content read from CMS code editor
+New file written to current directory from content on webpage: http://test.www.miamioh.edu/fsb/academics/entrepreneurship/about/faculty-staff/recent-research/index.html.
+Program Stop: 2018-05-10 13:57:37.699436
+
